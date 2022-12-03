@@ -1,3 +1,16 @@
+"""
+.........................
+: Advent of Code Day Two:
+:.......................:
+
+This program solves day two of 
+adventofcode.com's day two problem
+part one and two
+
+"""
+
+__author__ = '@mamamia96'
+
 def shape_to_string(shape: str) -> str:
 
     if shape == 'A' or shape == 'X':
