@@ -1,7 +1,7 @@
 """
-.........................
+...........................
 : Advent of Code Day Three:
-:.......................:
+:.........................:
 
 This program solves day three of 
 adventofcode.com's day three problem
