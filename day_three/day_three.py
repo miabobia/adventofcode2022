@@ -1,10 +1,10 @@
 """
 .........................
-: Advent of Code Day One:
+: Advent of Code Day Three:
 :.......................:
 
-This program solves day one of 
-adventofcode.com's day one problem
+This program solves day three of 
+adventofcode.com's day three problem
 part one and two
 
 """
