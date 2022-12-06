@@ -77,7 +77,6 @@ def make_crates(stack_lines: str) -> list:
         stack_positions_ind = 0
         
     return crates
-#=============================
 
 def main(part_one):
     
